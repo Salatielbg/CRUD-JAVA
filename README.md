@@ -1,10 +1,15 @@
-# Sistema de Reserva de Hotel
+# Sistema de Gerenciamento de Reservas de Hotel
 
-Este é um projeto de CRUD (Create, Read, Update, Delete) para a gestão de reservas de hotel, desenvolvido em Java. O sistema permite o cadastro, consulta, atualização e remoção de clientes, reservas, check-in e check-out.
+## Descrição
+Sistema desenvolvido para facilitar a gestão de reservas de um hotel, permitindo aos usuários realizar e gerenciar reservas, check-ins e check-outs.
 
 ## Funcionalidades
+- **Clientes**: Cadastro, consulta, atualização e exclusão de clientes.
+- **Reservas**: Cadastro, consulta, atualização e exclusão de reservas.
+- **Check-in**: Registro e consulta de check-ins.
+- **Check-out**: Registro e consulta de check-outs.
 
-- **Clientes**: Cadastro, consulta, atualização e remoção de clientes.
-- **Reservas**: Cadastro, consulta, atualização e remoção de reservas de hotel.
-- **Check-in**: Registro de check-ins dos clientes.
-- **Check-out**: Registro de check-outs dos clientes.
+## Tecnologias Utilizadas
+- **Java**: Desenvolvimento do sistema.
+- **Swing**: Interface gráfica.
+- **MySQL**: Banco de dados.
